@@ -9,16 +9,16 @@
 * Python
 
 <i><strong>Projects</strong></i>
-* Code First: Girls
+* Code First: Girls - Hack from Home
 * Codebar
 
 <i><strong>Education</strong></i>
-* MSc Defence, Development & Diplomacy
-* LLB Law (Hons)
+* MSc. Defence, Development & Diplomacy
+* LL.B. Law (Hons)
 
 <i><strong>Experience</strong></i>
-* People Operations Manager
-* Field Operations Team Lead
+* People Operations Manager, Programme Coordinator & Assistant Product Manager @ upReach
+* Field Operations Team Lead @ Google
 
 <i><strong>Hobbies & Interest</strong></i>
 * Volunteering
